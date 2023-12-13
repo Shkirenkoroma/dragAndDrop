@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dragAndDrop/static/css/main.8a685450.css",
+    "main.js": "/dragAndDrop/static/js/main.6249f71a.js",
+    "index.html": "/dragAndDrop/index.html",
+    "main.8a685450.css.map": "/dragAndDrop/static/css/main.8a685450.css.map",
+    "main.6249f71a.js.map": "/dragAndDrop/static/js/main.6249f71a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a685450.css",
+    "static/js/main.6249f71a.js"
+  ]
+}
